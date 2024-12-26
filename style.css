@@ -1,0 +1,32 @@
+body {
+  max-width: 37.5rem;
+  width: 740px;
+  margin: 0 auto !important;
+  font-family: 'Lato', sans-serif;
+  background: #f9f9f9;
+  color: #383838;
+  font-size: 16px;
+  line-height: 1.6;
+
+  header {
+    float: left;
+    box-sizing: border-box;
+    width: 740px;
+    padding: 20px 29px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    margin-bottom: 30px;
+
+  }
+}
+
+#container {
+  float: left;
+  box-sizing: border-box;
+  width: 740px;
+  padding: 20px 29px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  margin-bottom: 30px;
+}
+
